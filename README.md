@@ -17,7 +17,7 @@ An intelligent tool built to support students with learning by summarizing texts
 
 ## 🎯 Why This Project?
 
-As part of my passion for teaching and simplifying complex topics, this tool is designed to support students in self-paced learning. It’s especially useful for platforms like **Kovun Academy**, where practical, AI-driven tools can enhance the way students engage with their learning materials.
+As part of my passion for teaching and simplifying complex topics, this tool is designed to support students in self-paced learning. It’s especially useful for platforms like **Coven Academy**, where practical, AI-driven tools can enhance the way students engage with their learning materials.
 
 ## ✅ Future Improvements
 
